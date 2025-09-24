@@ -1,0 +1,1 @@
+/usr/local/bin/c++  -Werror=maybe-uninitialized CMakeFiles/box_capacity_exe.dir/main.cpp.o -o box_capacity_exe  libbox_capacity_lib.a 

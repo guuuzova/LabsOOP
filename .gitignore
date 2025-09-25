@@ -1,0 +1,11 @@
+build/
+_build/
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+Makefile
+*.o
+*.a
+*.so
+*.exe
+_deps/
